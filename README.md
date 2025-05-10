@@ -16,28 +16,56 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:** Jodie Cloete
+- **Date:** 10 May 2025
+- **Current Role/Position:** ESL Teacher/SDF Part-time Student
+- **Field of Interest:** Cybersecurity 
 
 ### Part 1: Self-Assessment Reflection
 
-1. **Skills Analysis**:
+1. **Skills Analysis**: 
     
     - List your current skills and areas of expertise.
+      - Language expertise
+      - Pedagogical skills
+      - Interpersonal skills
+      - Cultural awareness 
+   
     - Identify skills you need to develop or improve.
+     - Time management 
+     - Technical skills ie. TCP/IP, firewalls, DNS, VPN's etc.
+     - Cybersecurity fundamentals
+     - Analytical and problem-solving skills
+
 2. **Interests and Values**:
     
     - Describe your key interests related to your career.
+
+
     - What values are important to you in a work environment?
+     - Workplace Culture - The beliefs and values of the employees is imperative and also influences employee's behaviour 
+     - Employee validation - Being heard and valued for your opinion is very important.
+     - Consideration of mental health - It is of imperative importance that an organization takes both an employee's physical and mental health into account.
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
     - List the industries or roles you have researched.
+     - Software Development and Engineering
+      - Front-End/Back-End/Full stack Developer 
+     
+     - Cybersecurity
+      - Security Engineer/Analyst
+
+     - Data and Analytics
+      - Data Analyst/Engineer
+
+
     - Note any particular areas that piqued your interest.
+     - Cybersecurity 
+
+
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
