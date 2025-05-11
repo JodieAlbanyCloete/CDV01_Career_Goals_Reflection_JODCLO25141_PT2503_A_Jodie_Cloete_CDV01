@@ -108,13 +108,21 @@ By completing this reflection, you will gain a clearer understanding of your car
       - Financial independence 
 
     - Describe how these align with your interests and skills.
+     - My goal for being highly skilled aligns with my knack for problem solving and my curious mind. 
+     - Being financially independent and being able to transition into independent contracting go hand-in-hand. I hope to be able to generate many streams of income (e.g freelancing) - this shows a clear path to financial freedom.
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
     - Detail specific actions or steps needed to achieve each short-term goal.
+      - Complete the SDF course with Codespace - the action required here is better time management on my part and ensuring the nescessary hours are put towards my goals each week.
+    
     - Include any resources or support required.
+     - Take advantage of the resources and mentoring sessions provided by Codespace.
+     - Make use of Scrimba and Udemy to better understand all topics covered.
+
+     
 2. **Preparation for Long-term Goals**:
     
     - Describe the preparations or groundwork necessary for your long-term aspirations.
