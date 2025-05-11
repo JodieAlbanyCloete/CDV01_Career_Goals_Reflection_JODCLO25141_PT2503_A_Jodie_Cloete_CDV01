@@ -69,17 +69,44 @@ By completing this reflection, you will gain a clearer understanding of your car
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
+      - The reason this specific industry resonated with me is because I consider myself highly analytical and meticulous - this should allow me to be able to spot any anomalies. 
+
+      - I also consider myself persistent and resilient and these are qualities a good ethical hacker should possess.
+      
+      - I consider creativity to be a shortfall of mine and that is why the fields of Web Design and App Design appealed to me less. 
+
     - Identify any gaps or areas for further exploration.
+     - Careers that fall underneath the cybersecurity umbrella and what exactly they entail.
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
     
     - List your specific, measurable, achievable, relevant, and time-bound goals.
+     - Complete SDF course with Codespace
+     - Secure an Internship within the Tech world.
+     - Enroll in a Cybersecurity course 
+
+
     - Explain the rationale behind each goal.
+
+     - Complete SDF course with Codespace
+       This was my first step in taking a stride towards the career I want. This is the foundation I need to be able to take further steps.
+
+    - Secure an Internship within the Tech world
+     - This step is imperative for getting practical experience in this field - and because this is such a departure from my current role - this experience is crucial.
+
+    - Enroll in a Cybersecurity course
+     - This is the nescessary step for being able to attain my goal of working in this field - this is where I will gain the nescessary skills.
+
+
 2. **Long-term Goals** (3-5 years and beyond):
     
     - Outline your long-term career aspirations.
+      - Work at a reputable company in a role that aligns with my goals
+      - Become highly skilled - The goal is to be able to transition into independent contracting
+      - Financial independence 
+
     - Describe how these align with your interests and skills.
 
 ### Part 4: Action Plan
