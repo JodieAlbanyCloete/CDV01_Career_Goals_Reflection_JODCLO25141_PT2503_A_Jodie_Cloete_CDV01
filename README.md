@@ -40,6 +40,16 @@ By completing this reflection, you will gain a clearer understanding of your car
 2. **Interests and Values**:
     
     - Describe your key interests related to your career.
+     - Interests that pertain to my current career
+       - Cross-cultural interaction
+       - Passion for the English Language
+       - Suppporting others
+       - Life-long learning
+
+    - Interests that pertain to my future career
+     - Life-long learning 
+     - Enjoyment in tacking complex problems
+     - Passion for language - instead of the English language, programming Languages.
 
 
     - What values are important to you in a work environment?
@@ -128,22 +138,40 @@ By completing this reflection, you will gain a clearer understanding of your car
 2. **Preparation for Long-term Goals**:
     
     - Describe the preparations or groundwork necessary for your long-term aspirations.
+     - Foundational knowledge - Courses that will give me the foundation for a career in Tech/Cybersecurity.
+     - Commiting to life-long learning - creating daily and weekly habits that will serve me well going forward.
+     - Create meaningful connections with people within the field - use the Codespace platform to network and connect with current and  prospective Tech experts.
 
 
     - Consider additional skills, experiences, or qualifications needed.
-     - The personal skills I will need are time management, tenacity, autodidactic and perseverance. 
-     - The technical skills I will need are, firstly,  the SDF course. I will then need to acquire additional certificates. I have done research about a short course offered at CPUT - which would provide a solid foundation for a career in Cybersecurity.
+     - The personal skills I will need are time management, tenacity, perseverance and I should be autodidactic. 
+     - The technical skills I will need are, firstly, the SDF course. I will then need to acquire additional certificates. I have done research about a short course offered at CPUT - which should provide a solid foundation for a career in Cybersecurity.
+     - The practical experience I will need I hope to gain from an Internship oppurtunity.
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
     - Identify potential obstacles or challenges in reaching your goals.
+      - Unhealthy habits - I would need to create a routine focussed on achieving my goals and eliminating all external distractions.
+      - Competition in the field - The tech industry has become highly competitive with the way in which society as a whole is moving
+      - Fear of risk/change - Being in a comfort zone makes growth very challenging
+      - Lack of networking
+
     - Consider strategies to overcome these challenges.
+      - Time management courses can be an effective way to eliminate unhealthy habits and to ensure my daily goals are met.
+      - Competition in the field will always be a factor but I could work on finding ways in which to set myself apart - extra courses, attending seminars etc.
+      - Fear of change can be combated by a simple mindset shift - identify goals and strive toward them.
+
+
 2. **Opportunities for Growth**:
     
     - Highlight any opportunities you can leverage for career growth.
     - Include networking, mentorship, or educational opportunities.
+
+    - Networking - I could attend events planned by Codespace and build meaningful connections with prospective and current Tech profesionals. I could also make use of LinkedIn to build relationships outside of Codespace.
+
+    - Mentorship and Guidance - Take full advantage of the mentorship provided - Mentors can provide valuable insight, motivation and can help me make informed decisions going forward.
 
 ### Submission
 
